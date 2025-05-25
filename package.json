@@ -16,7 +16,8 @@
     "clsx": "^2.1.1",
     "tailwind-merge": "^2.5.2",
     "@radix-ui/react-progress": "^1.1.0",
-    "node-sass": "^8.0.0"
+    "node-sass": "^8.0.0",
+    "pg": "^8.11.3"
   },
   "devDependencies": {
     "@types/react": "^18.3.0",
