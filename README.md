@@ -1,6 +1,6 @@
 # Om Extrusion - Professional Manufacturing Services
 
-This is a static website built with React, TypeScript, and Vite.
+Professional Manufacturing services by Om Extrusion
 
 ## Getting Started
 
@@ -25,12 +25,8 @@ npm run build
 - TypeScript
 - Vite
 - Tailwind CSS
-- Lucide React (icons)
+- Lucide React Icons
 
 ## Deployment
 
-This site is automatically deployed when changes are pushed to the main branch.
-
-## Configuration
-
-Site configuration is stored in `public/config.json` and `public/products.json`.
+This site is automatically deployed using Netlify.

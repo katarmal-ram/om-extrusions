@@ -1,0 +1,1 @@
+// QuoteSection component content

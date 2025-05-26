@@ -1,0 +1,1 @@
+// TechnologySection component content

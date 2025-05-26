@@ -1,0 +1,1 @@
+// QualitySection component content

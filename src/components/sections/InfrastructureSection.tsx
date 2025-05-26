@@ -1,0 +1,1 @@
+// InfrastructureSection component content

@@ -1,0 +1,1 @@
+// CertificationsSection component content

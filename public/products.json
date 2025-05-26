@@ -1,7 +1,4 @@
 {
-  "featured": [
-    "product-1-1"
-  ],
   "categories": [
     {
       "id": "category-1",
@@ -208,5 +205,8 @@
       ],
       "description": "Precision extrusions for electrical enclosures, busbars, heat sinks, and electronic chassis. Designed to provide thermal efficiency and electrical conductivity."
     }
+  ],
+  "featured": [
+    "product-1-1"
   ]
 }
